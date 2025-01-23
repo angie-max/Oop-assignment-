@@ -1,5 +1,5 @@
-// Admission Number: CT101/G/20337/23
-// Name: 
+// Admission Number: CT101/G/19983/23
+// Name: Mumo Angela 
 // Description: This program prints hello world and adds 2 variables (5 and 7) to find the sum and display the results.
 public class HelloWorldAndSum {
   
